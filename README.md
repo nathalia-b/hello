@@ -1,5 +1,5 @@
-<h4>Me chamo Nathalia (23), sou graduanda em Tecnologia da Informação (Bacharelado) pela Universidade Federal do Rio Grande do Norte (UFRN) e estou no sexto período.</h4>
-<h4>Tenho buscado melhorar minhas habilidades de programação e estou sempre disposta a aprender algo novo.</h4>
+Me chamo **Nathalia** (23), sou graduanda em Tecnologia da Informação (Bacharelado) pela Universidade Federal do Rio Grande do Norte (UFRN) e estou no sexto período.
+Tenho buscado melhorar minhas habilidades de programação e estou sempre disposta a aprender algo novo.
 
 <h4>Tenho conhecimento em:</h4>
   - C/C++;
